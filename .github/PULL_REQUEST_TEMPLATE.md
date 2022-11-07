@@ -6,6 +6,8 @@
 tag the issue number with `#number` syntax;
 __issue__ #<replacewith your issue number>
 
+If an issue does not exist thats fine, just throw the detail in here
+
 ## Description
 
 Issues grow generally after we have generated them so provide an updated brief description of the WHY and the WHAT.
