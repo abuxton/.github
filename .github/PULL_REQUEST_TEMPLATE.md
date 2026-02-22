@@ -1,27 +1,44 @@
-# Pull request
-
+# Pull Request
 
 ## Related Issue
 
-tag the issue number with `#number` syntax;
-__issue__ #<replacewith your issue number>
+Closes #<!-- issue number -->
 
-If an issue does not exist thats fine, just throw the detail in here
+> If no issue exists, describe the motivation for this change below.
 
 ## Description
 
-Issues grow generally after we have generated them so provide an updated brief description of the WHY and the WHAT.
+A brief summary of **what** changed and **why**.
 
-## Expectation
+## Type of Change
 
-please check all the relevant components;
+- [ ] Bug fix (non-breaking change that fixes an issue)
+- [ ] New feature (non-breaking change that adds functionality)
+- [ ] Breaking change (fix or feature that would cause existing functionality to change)
+- [ ] Documentation update
+- [ ] Chore / refactor / dependency update
 
-- [ ] Syntax review
-- [ ] I don't understand pre-commit validation __HELP__ (You have read the ./contributors.md in the project)
-- [ ] Code review && test
-- [ ] Something else see How To
+## Checklist
 
-## How to'
+- [ ] I have read the [CONTRIBUTING](../CONTRIBUTING.md) guide
+- [ ] My changes follow the code style of this project
+- [ ] I have added or updated relevant tests
+- [ ] All new and existing tests pass
+- [ ] I have updated documentation where necessary
+- [ ] I have checked for security implications of my changes
 
-- How to Test, please include some steps and some expected outputs with context.
-- How to what ever else you expect a reviewer to do for review.
+## How to Test
+
+Provide steps and expected outputs so reviewers can validate this PR:
+
+1. …
+2. …
+
+## Screenshots (if applicable)
+
+<!-- Add screenshots here -->
+
+## Additional Notes
+
+<!-- Anything else reviewers should know? -->
+
