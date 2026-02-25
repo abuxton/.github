@@ -16,9 +16,10 @@ that does not have its own copy.
 | [`SUPPORT.md`](SUPPORT.md) | Where to get help |
 | [`CODEOWNERS`](CODEOWNERS) | Default code ownership assignments |
 | [`.github/PULL_REQUEST_TEMPLATE.md`](.github/PULL_REQUEST_TEMPLATE.md) | Default pull request template |
-| [`.github/ISSUE_TEMPLATE/bug_report.md`](.github/ISSUE_TEMPLATE/bug_report.md) | Bug report issue template |
-| [`.github/ISSUE_TEMPLATE/feature_request.md`](.github/ISSUE_TEMPLATE/feature_request.md) | Feature request issue template |
+| [`.github/ISSUE_TEMPLATE/bug_report.yml`](.github/ISSUE_TEMPLATE/bug_report.yml) | Bug report issue form (YAML) |
+| [`.github/ISSUE_TEMPLATE/feature_request.yml`](.github/ISSUE_TEMPLATE/feature_request.yml) | Feature request issue form (YAML) |
 | [`.github/ISSUE_TEMPLATE/config.yml`](.github/ISSUE_TEMPLATE/config.yml) | Issue template configuration |
+| [`.github/copilot-instructions.md`](.github/copilot-instructions.md) | GitHub Copilot repository instructions |
 
 ## References
 
