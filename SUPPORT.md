@@ -18,13 +18,13 @@ requests.
 ## 🐛 Report a Bug
 
 If you have found a bug, please
-[open a bug report](https://github.com/abuxton/.github/issues/new?template=bug_report.md)
+[open a bug report](https://github.com/abuxton/.github/issues/new?template=bug_report.yml)
 following the template provided. Include as much detail as possible.
 
 ## 🚀 Request a Feature
 
 To suggest a new feature or improvement, please
-[open a feature request](https://github.com/abuxton/.github/issues/new?template=feature_request.md).
+[open a feature request](https://github.com/abuxton/.github/issues/new?template=feature_request.yml).
 
 ## 🔒 Security Vulnerabilities
 
