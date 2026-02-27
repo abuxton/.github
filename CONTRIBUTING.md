@@ -11,14 +11,14 @@ By participating in this project, you agree to abide by our
 ## How to Report a Bug
 
 1. **Search first** – check [existing issues](../../issues) to avoid duplicates.
-2. If no existing issue matches, [open a bug report](../../issues/new?template=bug_report.md).
+2. If no existing issue matches, [open a bug report](../../issues/new?template=bug_report.yml).
 3. Include as much detail as possible: steps to reproduce, expected vs actual
    behavior, screenshots, and your environment.
 
 ## How to Request a Feature
 
 1. **Search first** – check [existing issues](../../issues) to avoid duplicates.
-2. If no existing issue matches, [open a feature request](../../issues/new?template=feature_request.md).
+2. If no existing issue matches, [open a feature request](../../issues/new?template=feature_request.yml).
 3. Describe the problem you need solved and your proposed solution.
 
 ## Making Changes
